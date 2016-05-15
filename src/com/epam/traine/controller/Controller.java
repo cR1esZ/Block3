@@ -66,6 +66,8 @@ public class Controller {
 
     public void startInputForUserInfromation(){
 
+
+
     }
 
 
@@ -82,6 +84,8 @@ public class Controller {
             view.printMessage(wrongMessage);
             return inputStringValueWithScanner(scanner,regex,wrongMessage);
         }
+
+
     }
 
     public String inputStringValueWithScannerForGroup(Scanner scanner, String wrongMessage){

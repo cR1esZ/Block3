@@ -17,15 +17,5 @@ public class Main {
         controller.processUser();
 
 
-//        ^[A-Za-z]+\\s[A-Za-z]\.(\s[A-Za-z]\.)?$
-//        String regex = "^\\+\\d{2}\\(\\d{3}\\)\\d{3}-\\d{2}-\\d{2}$";
-//        String str = "GolovanAndreyVitalievich";
-//
-//        boolean flag = false;
-//
-//        flag = str.matches(regex);
-//
-//        System.out.println(flag);
-
     }
 }
