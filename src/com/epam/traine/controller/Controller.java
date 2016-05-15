@@ -64,13 +64,6 @@ public class Controller {
         return false;
     }
 
-    public void startInputForUserInfromation(){
-
-
-
-    }
-
-
 
     public boolean validData(String input, String regex){
         return Pattern.matches(regex, input);
